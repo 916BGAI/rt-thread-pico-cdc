@@ -1,0 +1,3 @@
+[submodule "bsp/raspberry-pico/libraries/pico-sdk/lib/tinyusb"]
+	path = bsp/raspberry-pico/libraries/pico-sdk/lib/tinyusb
+	url = https://github.com/hathach/tinyusb.git

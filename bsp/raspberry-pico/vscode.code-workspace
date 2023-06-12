@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "stdio.h": "c",
+            "stdio_usb.h": "c",
+            "sstream": "c",
+            "systick.h": "c",
+            "array": "c",
+            "string_view": "c",
+            "initializer_list": "c",
+            "ranges": "c",
+            "utility": "c",
+            "random": "c",
+            "stdlib.h": "c",
+            "gpio.h": "c",
+            "m0plus.h": "c",
+            "address_mapped.h": "c"
+        }
+    }
+}
